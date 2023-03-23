@@ -1,9 +1,9 @@
-
 class ValidationError(Exception):
     """
     Error in validation stage
     """
     pass
+
 
 class RequestError(Exception):
     """
